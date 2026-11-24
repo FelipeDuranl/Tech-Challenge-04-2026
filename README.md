@@ -2,7 +2,7 @@
 
 ## Link do vídeo de demonstração
 
-_Em breve._
+
 
 # Relatório Técnico
 
